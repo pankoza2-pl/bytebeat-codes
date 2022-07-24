@@ -1,0 +1,2 @@
+//https://www.reddit.com/r/bytebeat/comments/ufvuio/electricity/
+(t>>14&3)?((t>>10)%(((t>>16)%6/(3&t>>14))+1)+1)*t&-t>>4:((t>>10)%(((t>>16)%6/(3&t>>14))+1)+1)*t&t*t //16000hz
