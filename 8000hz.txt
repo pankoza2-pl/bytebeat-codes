@@ -7,3 +7,6 @@ t * ((t >> 7 | t >> 11) & 42)
 t*(t>>8|t<<5)
 
 ((t >> 5) + 42) * 42 * t - 10 + t >> 3 * 30 / 6
+
+// https://www.reddit.com/r/bytebeat/comments/tohvch/i_dug_these_out_of_my_bookmarks/
+(t*(t>>5|t/**>>8**/))>>(t>>16)&(t>>42)/**&(t<<4>>2)**/
